@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cnt&apos; in &apos;도서관리프로그램.BookDAO.insert(...)&apos; to &apos;row&apos;&#x0D;&#x0A;- Original project: &apos;Ex10회원관리프로그램&apos;&#x0D;&#x0A;- Original element: &apos;도서관리프로그램.BookDAO.insert(BookVO).cnt&apos;&#x0D;&#x0A;- Renamed element: &apos;cnt&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cnt&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;도서관리프로그램{BookDAO.java[BookDAO~insert~QBookVO;@cnt!465!476!469!471!I!0!false" name="row" references="true" stamp="1688087729764" version="1.0"/>
+</session>

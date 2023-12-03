@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;MusicList&apos; in &apos;ex01ArrayList.Ex02뮤직플레이어.main(...)&apos; to &apos;musicList&apos;&#x0D;&#x0A;- Original project: &apos;Ex06ArrayList&apos;&#x0D;&#x0A;- Original element: &apos;ex01ArrayList.Ex02뮤직플레이어.main(String[]).MusicList&apos;&#x0D;&#x0A;- Renamed element: &apos;MusicList&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;MusicList&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ex01ArrayList{Ex02뮤직플레이어.java[Ex02뮤직플레이어~main~\[QString;@MusicList!257!304!275!283!QArrayList\&lt;QString;&gt;;!0!false" name="musicList" references="true" stamp="1687413939693" version="1.0"/>
+</session>

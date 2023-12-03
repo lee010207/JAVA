@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;scoreAndroid&apos; in &apos;학생정보관리프로그램.StuInfo&apos; to &apos;scorePython&apos;&#x0D;&#x0A;- Original project: &apos;Ex07OOP&apos;&#x0D;&#x0A;- Original element: &apos;학생정보관리프로그램.StuInfo.scoreAndroid&apos;&#x0D;&#x0A;- Renamed element: &apos;학생정보관리프로그램.StuInfo.scorePython&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;scoreAndroid&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;학생정보관리프로그램{StuInfo.java[StuInfo^scoreAndroid" name="scorePython" references="true" setter="false" stamp="1687743977187" textual="false" version="1.0"/>
+</session>

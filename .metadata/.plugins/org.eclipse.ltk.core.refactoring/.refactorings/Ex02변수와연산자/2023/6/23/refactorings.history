@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;Ex02변수와연산자&apos;&#x0D;&#x0A;- Original project: &apos;Ex02변수와연산자&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Ex01변수개요.java&#x0D;&#x0A;     Ex02변수의종류.java&#x0D;&#x0A;     Ex03변수실습.java&#x0D;&#x0A;     ex04변수추가.java&#x0D;&#x0A;     ex05형변환.java&#x0D;&#x0A;     Ex06키보드입력.java" description="Delete elements" element1="/src&lt;{Ex02변수의종류.java" element2="/src&lt;{Ex03변수실습.java" element3="/src&lt;{ex05형변환.java" element4="/src&lt;{Ex01변수개요.java" element5="/src&lt;{ex04변수추가.java" element6="/src&lt;{Ex06키보드입력.java" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1686272291751" subPackages="false" version="1.0"/>
+</session>
